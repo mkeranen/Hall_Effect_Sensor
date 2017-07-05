@@ -9,6 +9,7 @@ Arduino code for use with 3 wire digital switch hall effect sensor
  * Components Needed:
  *  - Arduino UNO
  *  - 56 ohm resistor
+ *  - 55140 Hall Effect Sensor, 3 wire digital switch
  * 
  * Pinout description:
  * 55140 Pins:
